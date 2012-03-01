@@ -33,7 +33,7 @@ form{
 }
 
 fieldset{
-	border: #0b0974 2px dashed;
+	border: #0b0974 2px ;
 }
 
 legend{
@@ -65,6 +65,7 @@ header p{
 
 
 #submit{
+	
 	padding:5px 10px;
 	background: #0b0974;
 	color: #fff;
@@ -76,4 +77,7 @@ header p{
 }
 input{
 	margin-top: 15px 
+}
+submit{
+	width: 200px
 }
