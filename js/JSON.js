@@ -3,7 +3,7 @@
 //1202 
 
 
-var static ={
+var json ={
 	"event1":{
 		"make":["Make","Chevy"],
 		"auto":["Auto","Silverado"],
@@ -29,4 +29,4 @@ var static ={
 		"what":["Make","radiator replaced"]
 	}
 
-}
+};
